@@ -1,33 +1,14 @@
-# Introduction to Jupyter Notebooks
+# Data Science Tools and Ecosystem
 
-This project serves as an introduction to creating and editing Jupyter notebooks. Jupyter notebooks are a powerful tool for interactive data analysis, visualization, and documentation. This project aims to provide a step-by-step guide on how to set up and use Jupyter notebooks, covering topics such as installation, basic usage, and common features.
+This project contains a Jupyter Notebook, [Data_Science_Tools_and_Ecosystem.ipynb](Data_Science_Tools_and_Ecosystem.ipynb), which provides an overview of the tools and ecosystem commonly used in data science.
 
-## Getting Started
+The notebook covers the following topics:
 
-To get started with this project, follow the steps below:
+- Popular languages used by data scientists, including Python, R, and SQL.
+- Commonly used libraries in data science, such as pandas, scikit-learn, numpy, matplotlib, and ggplot2.
+- A table summarizing various data science tools.
+- Examples of evaluating arithmetic expressions in Python, including simple multiplication, addition, and conversion of minutes to hours.
 
-1. Clone the repository or download the project files.
-2. Install Jupyter Notebook on your local machine.
-3. Open the Jupyter Notebook application.
-4. Navigate to the project directory.
-5. Open the introductory Jupyter notebook file.
+The notebook is authored by Adon Anglon.
 
-## Contents
-
-The project includes the following files:
-
-- `README.md`: This file provides an overview of the project.
-- `intro_notebook.ipynb`: The introductory Jupyter notebook file.
-- `data.csv`: Sample dataset used in the notebook.
-
-## Usage
-
-Open the `intro_notebook.ipynb` file in Jupyter Notebook to follow along with the tutorial. The notebook contains explanations, code snippets, and interactive cells that you can run and modify.
-
-## Contributing
-
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Please refer to the Jupyter Notebook for more detailed information and examples.
